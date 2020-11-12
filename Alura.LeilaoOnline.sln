@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alura.LeilaoOnline.Core", "Alura.LeilaoOnline.Core\Alura.LeilaoOnline.Core.csproj", "{A73A5FA8-E4B9-47C0-B1BE-959DB40E3034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alura.LeilaoOnline.Tests", "Alura.LeilaoOnline.Tests\Alura.LeilaoOnline.Tests.csproj", "{01B8CB4B-D76C-46AE-8274-0E63566C9C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73A5FA8-E4B9-47C0-B1BE-959DB40E3034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73A5FA8-E4B9-47C0-B1BE-959DB40E3034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73A5FA8-E4B9-47C0-B1BE-959DB40E3034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73A5FA8-E4B9-47C0-B1BE-959DB40E3034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B8CB4B-D76C-46AE-8274-0E63566C9C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B8CB4B-D76C-46AE-8274-0E63566C9C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B8CB4B-D76C-46AE-8274-0E63566C9C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B8CB4B-D76C-46AE-8274-0E63566C9C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FC5B379-6FCC-45F7-9460-734A5B659CE7}
+	EndGlobalSection
+EndGlobal
